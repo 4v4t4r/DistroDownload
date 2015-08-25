@@ -6,7 +6,7 @@
 
 ## 协作
 
-欢迎加入DistroDownload项目合作群，群号: 143218194。
+欢迎加入DistroDownload项目合作群，群号: 143218194，加群时请注明：DistroDownload志愿者。
 
 ### 更新搜集
 搜集资料，将需要更新的镜像名称发布在Issues区中。
