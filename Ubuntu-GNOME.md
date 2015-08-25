@@ -24,8 +24,8 @@ Ubuntu GNOME（以前叫做Ubuntu GNOME Remix）是Ubuntu的正式派生，它�
 
 ###  ubuntu-gnome-15.04-desktop-amd64.iso
 
-地址：http://yun.baidu.com/s/1eQrqTjk
+地址: http://yun.baidu.com/s/1eQrqTjk
 
-SHA1：e79ba83013757f18fe18df1ae24cf832174e1e5f
+SHA1: e79ba83013757f18fe18df1ae24cf832174e1e5f
 
-MD5：4fb3c08901409ad9e080d4c93258500f
+MD5: 4fb3c08901409ad9e080d4c93258500f

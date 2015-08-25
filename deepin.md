@@ -24,8 +24,8 @@ deepin是一份致力于为全球用户提供美观、易用、安全、免费�
 
 ### deepin_2014.3_amd64.iso
 
-地址：http://yun.baidu.com/s/1qWyyfso
+地址: http://yun.baidu.com/s/1qWyyfso
 
-SHA1：fde96405f63e14c3c72ce10e1c85fe57650a687b
+SHA1: fde96405f63e14c3c72ce10e1c85fe57650a687b
 
-MD5：036dda2007b0bf325b97ab3e0fe4a85a
+MD5: 036dda2007b0bf325b97ab3e0fe4a85a

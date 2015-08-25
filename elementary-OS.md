@@ -18,14 +18,14 @@
 
 ## 简介
 
-elementary OS是基于Ubuntu的桌面发行。它的一些有趣特性包括：一套新的GTK+及GNOME图标主题，Midori网页浏览器，在机构内部开发的新应用程序（例如通信簿Dexter及邮件客户端Postler），以及一个简单的文件管理器Nautilus Elementary。
+elementary OS是基于Ubuntu的桌面发行。它的一些有趣特性包括: 一套新的GTK+及GNOME图标主题，Midori网页浏览器，在机构内部开发的新应用程序（例如通信簿Dexter及邮件客户端Postler），以及一个简单的文件管理器Nautilus Elementary。
 
 ## 下载
 
 ### elementaryos-freya-amd64.20150411.iso
 
-地址：http://pan.baidu.com/s/1pJBrzOB
+地址: http://pan.baidu.com/s/1pJBrzOB
 
-SHA1：ff02eec5cba2c060fd3a5ac85b48d4075bb4f1a3
+SHA1: ff02eec5cba2c060fd3a5ac85b48d4075bb4f1a3
 
-MD5：742cc5b2c21bb1872954b13b7b2091a3
+MD5: 742cc5b2c21bb1872954b13b7b2091a3

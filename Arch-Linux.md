@@ -24,8 +24,8 @@ Arch Linux是一份独立开发的、为i686优化的Linux发行，它面向高�
 
 ###  archlinux-2015.08.01-dual.iso
 
-地址：http://yun.baidu.com/s/1jG3ue5w
+地址: http://yun.baidu.com/s/1jG3ue5w
 
-SHA1：e98320cd5f0c346fff4140af0b5ffadd59849168
+SHA1: e98320cd5f0c346fff4140af0b5ffadd59849168
 
-MD5：a31b2caa3d4368f0ca1444f99e533187
+MD5: a31b2caa3d4368f0ca1444f99e533187

@@ -23,8 +23,8 @@ Fedora（以前叫做Fedora Core）是由得到社区支持的、Red Hat所拥�
 
 ###  Fedora-Live-Workstation-x86_64-22-3.iso
 
-地址：http://pan.baidu.com/s/1mgxQtAw
+地址: http://pan.baidu.com/s/1mgxQtAw
 
-SHA1：e56c8a4e2b1a49e2a9b68d112f98f0b3685c98dc
+SHA1: e56c8a4e2b1a49e2a9b68d112f98f0b3685c98dc
 
-MD5：dbb4b453aa37a81247182b0794f49827
+MD5: dbb4b453aa37a81247182b0794f49827

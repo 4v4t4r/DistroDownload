@@ -24,8 +24,8 @@ Antergos是一份现代化的、优雅的、强大的操作系统，它基于Arc
 
 ### antergos-2015.08.18-x86_64.iso
 
-地址：http://yun.baidu.com/s/1jG7xLhc
+地址: http://yun.baidu.com/s/1jG7xLhc
 
-SHA1：397d72497e6761c7ff5f0cb53791b12ca673da23
+SHA1: 397d72497e6761c7ff5f0cb53791b12ca673da23
 
-MD5：2a44e71a48d82adbdd24505509b5b99e
+MD5: 2a44e71a48d82adbdd24505509b5b99e

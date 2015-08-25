@@ -24,8 +24,8 @@ Linux Mint是一份基于Ubuntu的发行，其目标是提供一份更完整意�
 
 ### linuxmint-17.2-cinnamon-64bit.iso
 
-地址：http://pan.baidu.com/s/1mgnHbBy
+地址: http://pan.baidu.com/s/1mgnHbBy
 
-SHA1：59091061d3fb380a13938425274ff0399348a526
+SHA1: 59091061d3fb380a13938425274ff0399348a526
 
-MD5：b8a0651bb0086519fbf7a70fc12db17e
+MD5: b8a0651bb0086519fbf7a70fc12db17e

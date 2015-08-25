@@ -24,10 +24,10 @@ Debian计划是由以创造一份自由操作系统为共同目标的个人团�
 
 ### debian-live-8.1.0-amd64-standard.iso
 
-地址：http://pan.baidu.com/s/1jGnfeVs
+地址: http://pan.baidu.com/s/1jGnfeVs
 
-SHA1：e22acbbb907956aeb1645e21fc7581af026f7a0d
+SHA1: e22acbbb907956aeb1645e21fc7581af026f7a0d
 
-MD5：2dcd0ae2006a8710892c1ac3d11da05a
+MD5: 2dcd0ae2006a8710892c1ac3d11da05a
 
 *Debian的完全版镜像超过了4GB，正在寻找合适的方法进行分享*
