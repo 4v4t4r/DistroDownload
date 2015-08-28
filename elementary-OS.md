@@ -24,7 +24,9 @@ elementary OS是基于Ubuntu的桌面发行。它的一些有趣特性包括: �
 
 ### elementaryos-freya-amd64.20150411.iso
 
-地址: http://pan.baidu.com/s/1pJBrzOB
+百度盘地址: http://pan.baidu.com/s/1pJBrzOB
+
+七牛地址(请勿滥用): http://7xjuyu.dl1.z0.glb.clouddn.com/elementaryos/elementaryos-freya-amd64.20150411.iso
 
 SHA1: ff02eec5cba2c060fd3a5ac85b48d4075bb4f1a3
 
