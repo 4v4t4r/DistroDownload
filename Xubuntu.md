@@ -24,7 +24,7 @@ Xubuntu是一份基于Ubuntu的Linux发行。然而与Ubuntu不同的是，Xubun
 
 ### xubuntu-15.04-desktop-amd64.iso
 
-地址: http://pan.baidu.com/s/1eQ4OJ4I
+百度云地址: http://pan.baidu.com/s/1eQ4OJ4I
 
 SHA1: ba77089e78659f15bcd3f5a3431cb7c4b44eb218
 

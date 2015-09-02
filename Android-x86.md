@@ -24,7 +24,7 @@ Android-x86是将谷歌安卓移动操作系统移植到采用因特尔及AMD的
 
 ### android-x86-4.4-r3.iso
 
-地址: http://pan.baidu.com/s/1c0dO3Hu
+百度云地址: http://pan.baidu.com/s/1c0dO3Hu
 
 SHA1: f18767926bebfb95d37326cd7847d78d804b07e6
 
