@@ -24,7 +24,7 @@ Ubuntu 是一份完整的桌面Linux操作系统，它可免费获得，并带�
 
 ### ubuntu-15.04-desktop-amd64.iso
 
-百度盘地址: http://pan.baidu.com/s/1jGw83wq
+百度云地址: http://pan.baidu.com/s/1jGw83wq
 
 七牛地址: http://7xjuyu.dl1.z0.glb.clouddn.com/ubuntu/ubuntu-15.04-desktop-amd64.iso
 
