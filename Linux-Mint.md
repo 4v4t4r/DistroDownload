@@ -24,9 +24,7 @@ Linux Mint是一份基于Ubuntu的发行，其目标是提供一份更完整意�
 
 ### linuxmint-17.2-cinnamon-64bit.iso
 
-百度云: http://pan.baidu.com/s/1mgnHbBy
-
-七牛: http://7xjuyu.com5.z0.glb.clouddn.com/elementaryos/elementaryos-freya-amd64.20150411.iso
+地址: http://pan.baidu.com/s/1mgnHbBy
 
 SHA1: 59091061d3fb380a13938425274ff0399348a526
 
