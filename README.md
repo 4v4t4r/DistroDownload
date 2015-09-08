@@ -9,7 +9,7 @@
 
 下载完成后，建议使用[Hashcalc](http://www.slavasoft.com/hashcalc/)进行SHA1以及MD5校验。
 
-> 百度云推荐使用[百度网盘助手](http://git.oschina.net/youyifentian/dupanlink)，可以获取直接的下载链接并破除2G限制，方便调用下载工具或者离线下载。
+> 百度云推荐使用[跳过网站等待、验证码及登录脚本](https://greasyfork.org/zh-CN/scripts/2600-%E8%B7%B3%E8%BF%87%E7%BD%91%E7%AB%99%E7%AD%89%E5%BE%85-%E9%AA%8C%E8%AF%81%E7%A0%81%E5%8F%8A%E7%99%BB%E5%BD%95)或者[百度网盘助手脚本](http://git.oschina.net/youyifentian/dupanlink)，可以获取直接的下载链接并破除2G限制，方便调用下载工具或者离线下载。
 
 
 ## 协作
