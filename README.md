@@ -7,7 +7,10 @@
 ## 使用
 使用`Ctrl+F`搜索发行版，进入对应文档，下载对应版本即可。
 
-下载完成后，建议使用Hashcalc进行SHA1以及MD5校验。
+下载完成后，建议使用[Hashcalc](http://www.slavasoft.com/hashcalc/)进行SHA1以及MD5校验。
+
+> 百度云推荐使用[百度网盘助手](http://git.oschina.net/youyifentian/dupanlink)，可以获取直接的下载链接并破除2G限制，方便调用下载工具或者离线下载。
+
 
 ## 协作
 
