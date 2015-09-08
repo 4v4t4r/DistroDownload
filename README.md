@@ -25,5 +25,8 @@
 ### 镜像校验
 负责校验已有的镜像完整性及安全性。
 
+## 感谢
+![七牛](http://assets.qiniu.com/qiniu-transparent.png)
+
 ## 协议
 Apache License 2.0
