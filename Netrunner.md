@@ -26,6 +26,8 @@ Netrunner是基于Kubuntu的发行，其特色在于一份高度定制的KDE桌�
 
 百度云地址: http://pan.baidu.com/s/1hqAkNEs
 
+七牛地址: http://7xllrh.dl1.z0.glb.clouddn.com/Netrunner/netrunner-16-dvd-64bit.iso
+
 SHA1: 8e4c0d101b9e52c0e447223a9558c6ce481f79d3
 
 MD5: 8901d3f4eff754fe2bf3d59d8cf63e2a
