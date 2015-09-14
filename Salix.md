@@ -26,6 +26,8 @@ Salix是基于Slackware的Linux发行，它简单、快捷、易于使用，并�
 
 百度云地址: http://pan.baidu.com/s/1hqvrY6o
 
+七牛地址: http://7xllrh.dl1.z0.glb.clouddn.com/Salix/salix64-mate-14.1.iso
+
 SHA1: af90f652426fbaaacdc807b3e414cf21b7848660
 
 MD5: 8b5a20bb7382bb2362ffff978849aa50
