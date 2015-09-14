@@ -26,6 +26,8 @@ OpenMandriva是一份功能齐全的Linux桌面及服务器发行，它由OpenMa
 
 百度云地址: http://pan.baidu.com/s/1jGvnRT0
 
+七牛地址: http://7xllrh.dl1.z0.glb.clouddn.com/OpenMandriva/OpenMandrivaLx-2014.2.x86_64.iso
+
 SHA1: 81242703fc75178ff6a7a1e57d6d879b7a44ae37
 
 MD5: 37d537c2f94eb68978c3267cb3d1de3c
