@@ -26,6 +26,8 @@ Linux Mint是一份基于Ubuntu的发行，其目标是提供一份更完整意�
 
 地址: http://pan.baidu.com/s/1mgnHbBy
 
+七牛云: http://opendownload.penbeat.cn/linuxmint/linuxmint-17.2-cinnamon-64bit.iso
+
 SHA1: 59091061d3fb380a13938425274ff0399348a526
 
 MD5: b8a0651bb0086519fbf7a70fc12db17e
