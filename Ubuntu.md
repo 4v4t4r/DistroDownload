@@ -26,7 +26,7 @@ Ubuntu 是一份完整的桌面Linux操作系统，它可免费获得，并带�
 
 百度云地址: http://pan.baidu.com/s/1jGw83wq
 
-七牛地址: http://7xjuyu.dl1.z0.glb.clouddn.com/ubuntu/ubuntu-15.04-desktop-amd64.iso
+七牛云: http://opendownload.penbeat.cn/ubuntu/ubuntu-15.04-desktop-amd64.iso
 
 SHA1: 3fda7146a4d3b27cb05a4ee6eed8eda6a0154c4a
 
@@ -34,5 +34,5 @@ MD5: 53c869eba8686007239a650d903847fd
 
 ### ubuntu-14.04.3-desktop-amd64.iso
 
-七牛地址: http://7xjuyu.dl1.z0.glb.clouddn.com/ubuntu/ubuntu-14.04.3-desktop-amd64.iso
+七牛云: http://opendownload.penbeat.cn/ubuntu/ubuntu-14.04.3-desktop-amd64.iso
 
